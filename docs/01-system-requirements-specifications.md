@@ -2,20 +2,30 @@ Systems Requirement Specification
 
 1. Introduction
 1.1. Purpose
-Define the reason(s) for which the system is being developed or modified.
+The purpose of this Smart Home Security System is to improve home security by detecting unauthorized access, providing real-time awareness of security events, enabling remote monitoring, and increasing the protection of people and property. The system is intended to help homeowners monitor their homes more effectively and respond quickly to potential security threats.
 
 1.2. Scope
-Define the scope of the system under consideration by:
+The scope of the system:
 
 a. Smart Home Security System
 
-b. Referring to and stating the results of the earlier finalized needs analysis, in the form of a brief but clear expression of the user's problem(s). It explains what the system will and will not do to satisfy those needs.
+b. According to the stakeholder needs analysis, the primary user needs are protection against unauthorized entry, fast notification of security events, easy system operation, reliable alarm detection and low false alarm rates.
 
-c. Describing the application of the system being specified. As a portion of this, it should describe all relevant top level benefits, objectives, and goals as precisely as possible.
+To satisfy these needs, the systemwill provide real time intrusion detection, monitor doors and windows through connected sensors, detect motion within protected areas, send immediate notifications to the user's mobile device, trigger an alarm when a verified intrusion is detected, and provide a simple interface for monitoring and controlling the security system.
+
+The system will not provide professional security guard services, emergency medical assistance, or direct law enforcement intervention. It will not guarantee protection against all possible security threats or operate outside the installed sensor coverange area. 
+
+c. The Smart Home Security System is intended for residential environments and provides homeowners with enhanced protection against unauthorized access. The system supports remote monitoring, intrusion detection, alarm activation, and user notification through a mobile application. The primary objectives are to improve home security, increase user awareness of security events, and provide timely alerts that enable users to respond quickly to potential threats.
 
 2. Overview
 2.1. System Context
-Describe at a general level the major elements of the system, to include human elements, and how they interact. The system overview includes appropriate diagrams and narrative to provide the context of the system, defining all significant interfaces crossing the system's boundaries.
+
+
+The Smart Home Security System boundary includes the central control unit, security monitoring capabilities, alarm management, and user notification services.
+
+External entities interacting with the system include the homeowner, mobile application, door sensors, motion sensors, alarm devices, and cloud-based communication services.
+
+The context diagram illustrates the interactions between the system and these external entities across the system boundary.
 
 2.2. System functions
 Describe major system capabilities, conditions and constraints.
