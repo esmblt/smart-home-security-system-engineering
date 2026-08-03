@@ -1,18 +1,19 @@
 Systems Requirement Specification
-Introduction
+
+1. Introduction
 1.1. Purpose
 Define the reason(s) for which the system is being developed or modified.
 
 1.2. Scope
 Define the scope of the system under consideration by:
 
-a. Identifying the system to be produced by name.
+a. Smart Home Security System
 
 b. Referring to and stating the results of the earlier finalized needs analysis, in the form of a brief but clear expression of the user's problem(s). It explains what the system will and will not do to satisfy those needs.
 
 c. Describing the application of the system being specified. As a portion of this, it should describe all relevant top level benefits, objectives, and goals as precisely as possible.
 
-Overview
+2. Overview
 2.1. System Context
 Describe at a general level the major elements of the system, to include human elements, and how they interact. The system overview includes appropriate diagrams and narrative to provide the context of the system, defining all significant interfaces crossing the system's boundaries.
 
